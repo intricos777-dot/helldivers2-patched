@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Helldivers 2 — Patched & Repaired
 
 > **As above, so below.** This chronicle records the systematic repair of *Helldivers 2* (Steam AppID `553850`) on a memory-constrained Garuda Linux (zen-kernel) hybrid laptop.
